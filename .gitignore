@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# NuGet Packages
+packages/
+
+# Xamarin
+*.userprefs
+*.log
+
+# Temp files
+*.tmp
+*.temp
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+logs/
